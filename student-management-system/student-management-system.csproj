@@ -7,7 +7,7 @@
     <ProjectGuid>{7C8A6224-7950-43C7-B664-1A01E6738588}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>student_management_system</RootNamespace>
-    <AssemblyName>student-management-system</AssemblyName>
+    <AssemblyName>StudentManagementSystem</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
