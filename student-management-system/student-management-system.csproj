@@ -77,7 +77,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="UI\" />
+    <Folder Include="UI\GradeSubject\" />
+    <Folder Include="UI\Grade\" />
+    <Folder Include="UI\StudentSubject\" />
+    <Folder Include="UI\Student\" />
+    <Folder Include="UI\SubjectTeacher\" />
+    <Folder Include="UI\Subject\" />
+    <Folder Include="UI\Teacher\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
